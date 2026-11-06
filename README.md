@@ -34,7 +34,7 @@ I am **Amirdha V.**, a B.E. Electronics and Communication Engineering student in
 ## Contact
 - **Email:** amirthaa170@gmail.com
 - **GitHub:** Amirtha170
-- **LinkedIn:** Add your LinkedIn profile link
+- **LinkedIn:**/in/amirtha-vadivel-5259932a5
 
 ## Author
 **Amirdha V.**  
