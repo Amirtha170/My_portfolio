@@ -33,7 +33,7 @@ I am **Amirdha V.**, a B.E. Electronics and Communication Engineering student in
 
 ## Contact
 - **Email:** amirthaa170@gmail.com
-- **GitHub:** Add your GitHub profile link
+- **GitHub:** Amirtha170
 - **LinkedIn:** Add your LinkedIn profile link
 
 ## Author
